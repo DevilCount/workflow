@@ -1,0 +1,24 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git *)",
+      "Bash(ls *)",
+      "Bash(mkdir *)",
+      "Bash(cat *)",
+      "Bash(pwd)",
+      "Bash(which *)",
+      "Bash(java -version)",
+      "Bash(mvn *)",
+      "Bash(npm *)",
+      "Bash(node *)",
+      "Bash(pnpm *)",
+      "Bash(yarn *)",
+      "Bash(python *)",
+      "Bash(pip *)",
+      "mcp__tfs-mcp__*",
+      "Read",
+      "Write",
+      "Edit"
+    ]
+  }
+}

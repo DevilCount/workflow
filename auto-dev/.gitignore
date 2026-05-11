@@ -1,0 +1,6 @@
+*.bak
+__pycache__/
+templates/products.yaml
+config.env
+docs/
+docs/
